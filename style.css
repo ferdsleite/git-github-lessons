@@ -23,5 +23,20 @@ body {
 }
 .botao {
 	font-size: 2rem;
-	padding: 20px;
+    font-weight: bold;
+	padding: 20px 30px;
+    width: 250px;
+    height: 100px;
+    border-radius: 50px;
+    border: none;
+    color: #e9fff9;
+}
+.incremento {
+	background-color: #d64045;
+}
+.decremento {
+	background-color: #1d3354;
+}
+.reset {
+	background-color: #9ed8db;
 }
